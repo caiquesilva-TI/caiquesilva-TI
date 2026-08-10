@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá, eu sou Caique Silva
+# 👋 Bem vindo, eu sou Caique Silva
 
 ### Desenvolvedor de Software | Estudante de Desenvolvimento de Software Multiplataforma
 
