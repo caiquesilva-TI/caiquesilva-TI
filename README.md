@@ -122,7 +122,7 @@ Git & GitHub
 
 <div align="center">
 
-*"Curiosidade é o que transforma um problema em projeto."*
+*"Curiosidade é a única forma de inquietação que vale a pena carregar a vida toda."*
 
 ⭐ Valeu por passar por aqui!
 
