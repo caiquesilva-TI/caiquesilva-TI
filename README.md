@@ -2,7 +2,7 @@
 
 # Que bom te ver por aqui ☕
 
-### Sou o Caique — back-end em formação, curioso por natureza, sempre com algo em construção
+### Sou o Caique, back-end em formação, curioso por natureza, sempre com algo em construção
 
 📍 Osasco, SP — Brasil
 
@@ -15,9 +15,9 @@
 
 ## Sobre mim
 
-Sou estudante de **Desenvolvimento de Software Multiplataforma na FATEC**, e o que mais me move é entender como as coisas funcionam por dentro — e depois quebrar, consertar e refazer até funcionar melhor.
+Sou estudante de **Desenvolvimento de Software Multiplataforma na FATEC**, e o que mais me move é entender como as coisas funcionam por dentro, e depois quebrar, consertar e refazer até funcionar melhor.
 
-Comecei mexendo com lógica de programação e estruturas de dados, e hoje passo boa parte do tempo transformando problemas reais (alguns que vivi de perto, tipo na área de logística) em código que resolve algo de verdade. Não é sobre saber tudo — é sobre não parar de perguntar "e se eu fizer assim?".
+Comecei mexendo com lógica de programação e estruturas de dados, e hoje passo boa parte do tempo transformando problemas reais (alguns que vivi de perto, tipo na área de logística) em código que resolve algo de verdade. Não é sobre saber tudo, é sobre não parar de perguntar "e se eu fizer assim?".
 
 Hoje, meu foco está em:
 
@@ -93,9 +93,9 @@ Git & GitHub
 
 ## Pra onde quero ir
 
-- 💼 Conquistar minha primeira oportunidade em tecnologia — de preferência em Back-end
+- 💼 Conquistar minha primeira oportunidade em tecnologia, de preferência em Back-end
 - 🛠️ Sair do "projeto de estudo" e construir coisas cada vez mais completas
-- 🧠 Aprender testando, errando e ajustando — sempre
+- 🧠 Aprender testando, errando e ajustando, sempre
 - 📚 Transformar curiosidade em portfólio de verdade
 
 ---
