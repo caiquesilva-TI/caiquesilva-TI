@@ -1,35 +1,63 @@
 <div align="center">
 
-# Que bom te ver por aqui ☕
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Oi%2C+eu+sou+o+Caique+%E2%98%95;Back-end+em+forma%C3%A7%C3%A3o.;Transformo+dor+real+em+c%C3%B3digo+que+funciona." alt="Caique - Back-end em formação" />
 
-### Sou o Caique, back-end em formação, curioso por natureza, sempre com algo em construção
+**Eu não gosto de problema repetitivo. Por isso aprendi a programar.**
 
-📍 Osasco, SP — Brasil
+📍 Osasco, SP · 🎓 Desenvolvimento de Software Multiplataforma @ FATEC
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/caiquesilva-TI)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caique-dev-backend)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/caiquesilva-TI)
 
 </div>
 
 ---
 
-## Sobre mim
+## 👋 Antes de tudo
 
-Sou estudante de **Desenvolvimento de Software Multiplataforma na FATEC**, e o que mais me move é entender como as coisas funcionam por dentro, e depois quebrar, consertar e refazer até funcionar melhor.
+A maioria dos perfis te diz o que a pessoa sabe. O meu prefere te contar **por que** eu faço o que faço.
 
-Comecei mexendo com lógica de programação e estruturas de dados, e hoje passo boa parte do tempo transformando problemas reais (alguns que vivi de perto, tipo na área de logística) em código que resolve algo de verdade. Não é sobre saber tudo, é sobre não parar de perguntar "e se eu fizer assim?".
+Eu aprendo desmontando. Abro, quebro, descubro onde está o defeito, conserto e refaço até ficar melhor do que estava. Meu código favorito não é o mais bonito: é o que acaba com uma tarefa chata de vez.
 
-Hoje, meu foco está em:
-
-- 🐍 Python — automação e tratamento de dados
-- ☕ Java — lógica e orientação a objetos
-- 💻 C — porque entender os fundamentos nunca sai de moda
-- 🗄️ SQL e modelagem de banco de dados
-- ⚙️ Automatizar tudo que for repetitivo
+> *"Não é sobre saber tudo. É sobre nunca parar de perguntar: e se eu fizer assim?"*
 
 ---
 
-## Tech Stack
+## 🧭 De onde eu venho
+
+Antes de escrever código, eu **vivi o problema**. Trabalhei de perto com logística, onde uma planilha preenchida na mão, às 18h, com o dia inteiro nas costas, é um convite ao erro.
+
+Essa experiência me ensinou uma coisa que nenhuma aula ensina sozinha: software bom nasce de **uma dor real**, não de uma ideia bonita. Hoje eu procuro essa dor primeiro, e só depois abro o editor.
+
+---
+
+## 🛠️ Projetos (com história, não só com código)
+
+### 📦 [LogiControl](https://github.com/caiquesilva-TI/LogiControl)
+
+| | |
+|---|---|
+| **A dor** | Controle de estoque feito à mão em planilhas: lento, repetitivo e cheio de espaço para erro. |
+| **O que eu fiz** | Um script em Python que automatiza os relatórios de entrada e saída de produtos. |
+| **O que ficou** | Menos retrabalho, menos erro, e a prova de que dá para resolver um problema que eu mesmo vivi. |
+
+`Python` `Pandas` `OpenPyXL` `Excel`
+
+---
+
+### 🏋️ [AcademiaDB](https://github.com/caiquesilva-TI/AcademiaDB)
+
+| | |
+|---|---|
+| **O desafio** | Modelar do zero o banco de dados de uma academia inteira: alunos, instrutores, planos, matrículas e pagamentos. |
+| **O que eu fiz** | Um banco relacional em SQL Server com histórico e auditoria, usando views, procedures, triggers e consultas mais elaboradas. |
+| **O que ficou** | Foi aqui que entendi que um bom banco de dados é a fundação: se ela estiver torta, todo o resto sofre. |
+
+`SQL Server` `T-SQL` `Modelagem Relacional`
+
+---
+
+## 🧰 Stack
 
 **Linguagens**
 
@@ -51,56 +79,40 @@ Hoje, meu foco está em:
 
 ---
 
-## Projetos que curti fazer
+## 🔧 Em obras agora
 
-### 📦 LogiControl
-Um script em **Python** que nasceu de uma dor real que vivi trabalhando com logística: preenchimento manual de planilhas de estoque, cheio de espaço pra erro. Automatiza os relatórios de entrada e saída de produtos e reduz esse retrabalho.
+Um perfil vivo tem coisa pela metade. O meu tem, e eu acho isso bom.
 
-`Python` `Pandas` `OpenPyXL` `Excel`
-
-🔗 [Ver projeto](https://github.com/caiquesilva-TI/LogiControl)
-
-### 🏋️ AcademiaDB
-Banco de dados relacional em **SQL Server** pra gestão completa de uma academia — alunos, instrutores, planos, matrículas e pagamentos, com histórico e auditoria. Foi onde coloquei a mão na massa de verdade com views, procedures, triggers e consultas mais elaboradas.
-
-`SQL Server` `Modelagem Relacional` `T-SQL`
-
-🔗 [Ver projeto](https://github.com/caiquesilva-TI)
+- 🐍 **Python**: automação e tratamento de dados com Pandas
+- ☕ **Java**: orientação a objetos e desenvolvimento de sistemas
+- 💻 **C**: porque entender os fundamentos nunca sai de moda
+- 🗄️ **Banco de dados**: SQL Server e modelagem relacional
+- 🔀 **Git e GitHub**: versionar tudo, inclusive meus erros
 
 ---
 
-## No que estou de cabeça agora
+## 🧠 Como eu trabalho
 
-```text
-Python
- ├── Pandas
- ├── Automação
- └── Manipulação de dados
-
-Java
- ├── Programação Orientada a Objetos
- └── Desenvolvimento de sistemas
-
-Banco de Dados
- ├── SQL Server
- └── Modelagem relacional
-
-Git & GitHub
- └── Versionamento e portfólio
-```
+- **Começo pelo problema, não pela ferramenta.** Escolher a tecnologia vem depois de entender a dor.
+- **Se eu fiz duas vezes, vou automatizar.** A terceira vez é por conta do script.
+- **Errar rápido é aprender rápido.** Prefiro um protótipo quebrado hoje a um plano perfeito que nunca roda.
+- **Fundamento primeiro.** Framework passa, lógica fica.
 
 ---
 
-## Pra onde quero ir
+## 🎯 Pra onde eu vou
 
-- 💼 Conquistar minha primeira oportunidade em tecnologia, de preferência em Back-end
-- 🛠️ Sair do "projeto de estudo" e construir coisas cada vez mais completas
-- 🧠 Aprender testando, errando e ajustando, sempre
-- 📚 Transformar curiosidade em portfólio de verdade
+Estou atrás da minha **primeira oportunidade em tecnologia**, de preferência em **back-end**. Quero entrar num time onde eu possa:
+
+- sair do "projeto de estudo" e construir coisas cada vez mais completas
+- aprender com gente mais experiente e devolver com entrega
+- transformar curiosidade em resultado que dá para medir
+
+Se você está montando um time e procura alguém que aprende rápido, pergunta muito e não desiste do bug, **vamos conversar**.
 
 ---
 
-## GitHub Stats
+## 📊 Números do GitHub
 
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiquesilva-TI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -109,21 +121,10 @@ Git & GitHub
 
 ---
 
-## Vamos trocar uma ideia?
-
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/caiquesilva-TI)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caique-dev-backend)
+### Se chegou até aqui, a gente já tem algo em comum: curiosidade. ☕
 
-</div>
-
----
-
-<div align="center">
-
-*"Curiosidade é a única forma de inquietação que vale a pena carregar a vida toda."*
-
-⭐ Valeu por passar por aqui!
+[![LinkedIn](https://img.shields.io/badge/Vamos_conversar-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caique-dev-backend)
 
 </div>
